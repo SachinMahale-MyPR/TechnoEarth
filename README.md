@@ -45,7 +45,7 @@ To deliver global IT solutions that are sustainable, innovative, and tailored fo
 
 📧 Email: info@technoearth.in
 
-🔗 LinkedIn: Techno Earth Global Solutions (your actual link)
+🔗 LinkedIn: linkedin.com/in/sachin-m-666449308
 
 🎯 Fiverr / Upwork: Available on request
 
