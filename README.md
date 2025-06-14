@@ -41,12 +41,11 @@ Reliable remote support for data entry, research, and business operations.
 To deliver global IT solutions that are sustainable, innovative, and tailored for success — whether you're a startup, SME, or enterprise.
 
 ## 🤝 Let's Connect
-🌐 Website: www.technoearth.in (replace with your actual domain)
 
-📧 Email: info@technoearth.in
-
-🔗 LinkedIn: linkedin.com/in/sachin-m-666449308
-
-🎯 Fiverr / Upwork: Available on request
+- 🌐 Website: [www.technoearth.in](https://www.technoearth.in)
+- 📧 Email: info@technoearth.in
+- 🔗 LinkedIn: [Techno Earth Global Solutions](https://www.linkedin.com/in/sachin-m-666449308?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIv09tFgzRfqsEvICTFk%2FxQ%3D%3D)
+- 🐦 Twitter/X: [@TechnoEarth](https://twitter.com/TechnoEarth) 
+- 🎯 Fiverr / Upwork: Available on request
 
 💡 This repository serves as a showcase of our services and work samples. For client-specific or private projects, please contact us directly.
